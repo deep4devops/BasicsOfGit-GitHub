@@ -1,0 +1,1 @@
+"welcome to Day 2 of git and gitHub Blog"
